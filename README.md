@@ -1,1 +1,1 @@
-# My Basic FSM typescript library
+## Basic FSM typescript library
